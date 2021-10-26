@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Vidly
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Live Demo
+
+[Try it out](https://oliviawissig.github.io/Vidly/)
 
 ## Available Scripts
 
