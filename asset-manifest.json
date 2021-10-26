@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vidly/static/css/main.2d296e70.chunk.css",
+    "main.js": "/vidly/static/js/main.5fd84de9.chunk.js",
+    "main.js.map": "/vidly/static/js/main.5fd84de9.chunk.js.map",
+    "runtime-main.js": "/vidly/static/js/runtime-main.e2bf292c.js",
+    "runtime-main.js.map": "/vidly/static/js/runtime-main.e2bf292c.js.map",
+    "static/css/2.84ae4491.chunk.css": "/vidly/static/css/2.84ae4491.chunk.css",
+    "static/js/2.0f1d9df4.chunk.js": "/vidly/static/js/2.0f1d9df4.chunk.js",
+    "static/js/2.0f1d9df4.chunk.js.map": "/vidly/static/js/2.0f1d9df4.chunk.js.map",
+    "static/js/3.2ac3c1fe.chunk.js": "/vidly/static/js/3.2ac3c1fe.chunk.js",
+    "static/js/3.2ac3c1fe.chunk.js.map": "/vidly/static/js/3.2ac3c1fe.chunk.js.map",
+    "index.html": "/vidly/index.html",
+    "static/css/2.84ae4491.chunk.css.map": "/vidly/static/css/2.84ae4491.chunk.css.map",
+    "static/css/main.2d296e70.chunk.css.map": "/vidly/static/css/main.2d296e70.chunk.css.map",
+    "static/js/2.0f1d9df4.chunk.js.LICENSE.txt": "/vidly/static/js/2.0f1d9df4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/vidly/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2bf292c.js",
+    "static/css/2.84ae4491.chunk.css",
+    "static/js/2.0f1d9df4.chunk.js",
+    "static/css/main.2d296e70.chunk.css",
+    "static/js/main.5fd84de9.chunk.js"
+  ]
+}
